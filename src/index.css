@@ -1,0 +1,12 @@
+html {
+  min-height: 100%;
+}
+body {
+  margin: 0;
+  padding: 2em 5%;
+  font-family: sans-serif;
+  background-image: linear-gradient(to bottom, #f7f9f0, #afbacd);
+}
+* {
+  box-sizing: border-box;
+}
